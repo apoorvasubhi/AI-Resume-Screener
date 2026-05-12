@@ -34,13 +34,13 @@ An AI-powered recruitment platform that analyzes, scores, and ranks resumes agai
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Candidate Ranking
-![Ranking](screenshots/ranking.png)
+![Ranking](screenshots/overall_skill_analysis.png)
 
 ### AI Feedback
-![AI Feedback](screenshots/ai_feedback.png)
+![AI Feedback](screenshots/ai_resume_review.png)
 
 ---
 
